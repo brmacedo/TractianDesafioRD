@@ -1,0 +1,6 @@
+﻿DesafioTractian.obj : error LNK2019: símbolo externo não resolvido, __imp__fftw_execute, referenciado na função "void __cdecl fft(double (*)[2],double (*)[2])" (?fft@@YAXPAY01N0@Z)
+DesafioTractian.obj : error LNK2019: símbolo externo não resolvido, __imp__fftw_plan_dft_1d, referenciado na função "void __cdecl fft(double (*)[2],double (*)[2])" (?fft@@YAXPAY01N0@Z)
+DesafioTractian.obj : error LNK2019: símbolo externo não resolvido, __imp__fftw_destroy_plan, referenciado na função "void __cdecl fft(double (*)[2],double (*)[2])" (?fft@@YAXPAY01N0@Z)
+DesafioTractian.obj : error LNK2019: símbolo externo não resolvido, __imp__fftw_cleanup, referenciado na função "void __cdecl fft(double (*)[2],double (*)[2])" (?fft@@YAXPAY01N0@Z)
+D:\OneDrive\CURRICULUM\DESAFIO_TRACTIAN\DesafioTractian\VisualStudio\DesafioTractian\fftw\lib\libfftw3-3.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+D:\OneDrive\CURRICULUM\DESAFIO_TRACTIAN\DesafioTractian\VisualStudio\DesafioTractian\Debug\DesafioTractian.exe : fatal error LNK1120: 4 externo não resolvidos
